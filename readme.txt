@@ -1,0 +1,1 @@
+看了十几节Games101课程（看到Ray Tracing2），看了12章虎书（看到Texture Mapping），现在回头边复习PPT边完成作业，顺便熟悉一下git操作
